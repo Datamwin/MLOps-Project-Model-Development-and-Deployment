@@ -12,7 +12,7 @@ You can read more about the data, which was initially taken from Kaggle, on [the
   
 * python3 -m pip install --user virtualenv
 
-# Use a command similar to this one:
+## Use a command similar to this one:
 python3 -m virtualenv --python=<path-to-Python3.7> .devops
 
 source .devops/bin/activate
